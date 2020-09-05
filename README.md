@@ -1,2 +1,2 @@
 # car-price-prediction
-Prediction of car prices using multiple linear regression.
+A toy project for prediction of car prices using multiple linear regression.
